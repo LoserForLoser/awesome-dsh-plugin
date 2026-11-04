@@ -1,0 +1,6 @@
+url: https://github.com/LoserForLoser/dsh-workspace-merge
+name: LoserForLoser/dsh-workspace-merge
+category: tools
+description:
+  en: 'Multi-root workspace editing inside one session: ws_ls / ws_read / ws_diff inspect one relative path across every root of a group at once, and ws_edit / ws_write apply a single change to all of them with a per-root outcome, so shared components and synced configs cannot drift apart. Comes with a group registry for naming root sets such as pc + mobile, and a combined view with a line diff.'
+  zh: '在一个会话里跨多个项目根目录编辑：ws_ls / ws_read / ws_diff 一次检查同一相对路径在所有根里的状态，ws_edit / ws_write 把一处改动应用到全部根并逐个报告结果，避免共享组件与同步配置走样。附带根目录组注册（如 pc + mobile）与带行级差异的合并视图。'
