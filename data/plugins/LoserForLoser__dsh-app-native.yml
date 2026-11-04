@@ -1,0 +1,6 @@
+url: https://github.com/LoserForLoser/dsh-app-native
+name: LoserForLoser/dsh-app-native
+category: dev
+description:
+  en: 'Agent preset for mobile native development: one preset covering iOS, Android and HarmonyOS in their native languages, choosing the platform from the workspace. Ships the preset definition and the Cordis patch that mounts it.'
+  zh: '面向移动端原生开发的 agent 预设：一个预设覆盖 iOS、Android、HarmonyOS 三端的原生语言，并按工作区自动选择平台。含预设定义与挂载它的 Cordis patch。'
